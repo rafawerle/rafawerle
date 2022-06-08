@@ -1,4 +1,4 @@
-### Olá! 👋😄
+<h2 align="left">  Olá!👋 Sou a Rafaela! </h2>
 
 <div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafawerle&show_icons=true&theme=radical"/>
@@ -24,3 +24,5 @@
 ## Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-cunha-werle-1b8731bb/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaelawerle/)
+
+<img align="center" alt="mysql" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> rafaelawerle1992@gmail.com
