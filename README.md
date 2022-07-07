@@ -1,4 +1,4 @@
-<h2 align="left">  Olá!👋 Sou a Rafaela! </h2>
+<h2 align="left">  Hi!👋 I'am Rafaela Werle! </h2>
 
 <div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafawerle&show_icons=true&theme=radical"/>
